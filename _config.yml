@@ -1,14 +1,14 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              Wap.ink
+bio:                'Wap Blog.'
+description:        "待修改."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://taylantatli.github.io/Moon
+url:                http://wap.ink
 
 # Jekyll
 permalink:          /:title/
@@ -38,9 +38,9 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
+twitter:            ibabywang
 facebook:           username
-github-url:         username
+github-url:         ibabywang
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
@@ -55,7 +55,7 @@ steam:              username
 #youtube:           username
 #youtube-channel:   channel
 #soundcloud:        username
-#weibo:             username
+#weibo:             isc2
 #flickr:            username
 #codepen:           username
 #keybase:           username
